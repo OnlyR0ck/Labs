@@ -1,0 +1,8 @@
+User was set points : 
+X1: 5
+Y1: 7
+X2: 3
+Y2: 7
+The user viewed the data about points.
+The user viewed the equation.
+User calculate the equation.

@@ -1,4 +1,4 @@
-#include "Employee1.h"
+#include "Lab_one.h"
 
 Date::Date(int d, int m, int y)
 {

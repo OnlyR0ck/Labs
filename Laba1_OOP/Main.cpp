@@ -1,13 +1,8 @@
-﻿#include "Employee1.h"
+﻿#include "Lab_three.h"
 
 int main()
 {
-	Employee emp;
-	emp.setSmth();
-	cout << endl;
-	emp.getSmth();
-	emp.writeToFile();
-	
+	Menu();
 	return 0;
 }
 

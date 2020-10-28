@@ -1,0 +1,36 @@
+Parallelogram
+The coordinates is :
+Point 1 : 5,6
+Point 2 : 3,5
+Point 3 : 6,7
+Point 4 : 3,4
+The square is -4
+Square
+The coordinates is :
+Point 1 : 2,7
+Point 2 : 3,8
+Point 3 : 2,8
+Point 4 : 5,7
+The square is 1.41421
+Trapezoid
+The coordinates is :
+Point 1 : 3,5
+Point 2 : 6,7
+Point 3 : 8,82
+Point 4 : 4,6
+The square is -2866.53
+The middle line of trapezoid is :38.2204
+Rhombus
+The coordinates is :
+Point 1 : 5,2
+Point 2 : 7,8
+Point 3 : 5,8
+Point 4 : 4,7
+The square is 9.48683
+Rectangle
+The coordinates is :
+Point 1 : 4,5
+Point 2 : 6,7
+Point 3 : 45,4
+Point 4 : 6,2
+The square is 110.635
