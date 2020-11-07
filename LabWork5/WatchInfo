@@ -1,0 +1,18 @@
+Info about smart watch: 
+Dev: Apple
+Price: 500
+Calories: 400
+Heartbeat: 78
+Require power: 1
+Display type: AMOLED
+Power type:Energizer
+Capacity: 1000
+Info about mechanical watch: 
+Dev: Rolex
+Price: 25000
+Clock format: 12
+Tense of mainspring: 20
+Require power: 0
+Display type: Quartz
+Power type:Mainspring
+Capacity: 0
