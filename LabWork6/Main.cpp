@@ -66,7 +66,7 @@ namespace LabWork6
 				_getch();
 				break;
 			case 3:
-				cout << "Dog name : " << dog.getNickName();
+				cout << "Dog name : " << dog.getNickName() << endl;
 				dog.getRequireStroll() ? cout << "Get out with your puppy!\n" : cout << "Just chill out\n";
 				dog.getOtherParams();
 				_getch();
